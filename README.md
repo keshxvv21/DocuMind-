@@ -1,4 +1,4 @@
-# DocuMind — Ask Your Notes
+# DocuMind (Ask Your Notes)
 
 > Upload your study notes. Ask questions. Get answers — straight from your documents.
 
@@ -126,12 +126,3 @@ The original plan was Flan-T5 via HuggingFace transformers, but the `tokenizers`
 - Upgrade to Mistral-7B for better answer quality
 - React frontend for better state management
 
----
-
-## Resume Description
-
-> Built a Retrieval-Augmented Generation (RAG) system enabling users to query personal study documents with contextual AI responses. Used FAISS for vector similarity search, HuggingFace sentence-transformers for semantic embeddings, and Ollama (TinyLlama) as a local LLM. Backend: Python + Flask. Frontend: HTML/CSS/JS.
-
----
-
-*B.Tech CSE Project · Uka Tarsadia University · 2026*
